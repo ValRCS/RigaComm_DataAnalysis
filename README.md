@@ -5,7 +5,7 @@
 
 ## Attendees will get hands-on experience using Anaconda Python distribution.
 
-###T opics covered.
+### Topics covered.
 
 * Data wrangling / cleaning
 * Accessing Big Data / Cloud solutions
