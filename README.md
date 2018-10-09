@@ -1,5 +1,5 @@
 # RigaComm_DataAnalysis
-##Building a Modern Data Analysis Platform - Riga Comm 2018 Workshop
+## Building a Modern Data Analysis Platform - Riga Comm 2018 Workshop
 
 ### Data Science has become more accessible to non-scientists due to freely available toolsets.
 
