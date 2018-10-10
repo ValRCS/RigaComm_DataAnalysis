@@ -11,3 +11,6 @@
 * Accessing Big Data / Cloud solutions
 * Selecting / Applying Machine Learning models
 * Exporting Results / Visualizations
+
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/RigaComm_DataAnalysis/master)
