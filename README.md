@@ -14,3 +14,5 @@
 
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/RigaComm_DataAnalysis/master)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RigaComm_DataAnalysis/)
